@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="doslidy.png" alt="Цікаві досліди — doslidy" width="480">
+</p>
+
 # doslidy
 
 Технічна сатира для агента. Пояснює українською, підмішує суржик,
